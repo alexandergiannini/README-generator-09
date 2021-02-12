@@ -1,6 +1,10 @@
-# Moviehunt app
+# a
+
+  <img src="https://img.shields.io/static/v1?label=license&message=The Unlicense&color=yellow"/>
+  
   # Description: 
-  a web application where users can search for any movie and receive valid information about the search, including an image, description, rating, genre, and a new york times article
+  a
+  
 
   # Table of Contents:
 
@@ -12,20 +16,21 @@
   * [Questions](#questions)
 
   # Installation: 
-  u only need to go to moviehunt.com
+  a
 
   # Usage: 
-  this application can be used by anyone. even toddlers!
+  a
 
   # License: 
-  This application is covered under the Boost Software License 1.0 license
+  This application is covered under the The Unlicense license
 
   # Contributing: 
-  this app was also co developed by Alex Reveles and Emily Chuun
+  a
 
   # Tests: 
-  users can test this on any web browser, using either a desktop or mobile device
+  a
 
   # Questions: 
-  GitHub User: [alexandergiannini](https://github.com/alexandergiannini)
-  Please feel free to reach out with any questions at biggianninitennis@gmail.com
+  GitHub User: [a](https://github.com/a)
+
+  Please feel free to reach out with any questions at aasdsad

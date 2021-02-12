@@ -1,6 +1,8 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) {}
+function renderLicenseBadge(license) {
+  return `<img src="https://img.shields.io/static/v1?label=license&message=${license}&color=yellow"/>`
+}
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
@@ -19,8 +21,12 @@ function generateMarkdown(data) {
 
 function writeToFile(projectTitle, projectDescription, projectInstallation, usageInformation, contributingGuidelines, testInformation, licenseInformation, githubUser, email) { //need to update this
   return `# ${projectTitle}
+
+  ${renderLicenseBadge(licenseInformation)}
+  
   # Description: 
   ${projectDescription}
+  
 
   # Table of Contents:
 
@@ -48,6 +54,7 @@ function writeToFile(projectTitle, projectDescription, projectInstallation, usag
 
   # Questions: 
   GitHub User: [${githubUser}](https://github.com/${githubUser})
+
   Please feel free to reach out with any questions at ${email}`
 }
 
