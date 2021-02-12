@@ -2,7 +2,7 @@
 const profileDataArgs = process.argv.slice(2, process.argv.length);
 //const fileName = profileDataArgs[0]
 //const sampleData = profileDataArgs[1]
-const [fileName, sampleData] = profileDataArgs ///destructuring the data here
+const [projectTitle, projectDescription, projectInstallation, usageInformation, contributingGuidelines, testInformation, licenseInformation, githubUser, email] = profileDataArgs ///destructuring the data here
 
 const fs = require('fs')
 
@@ -30,7 +30,7 @@ init();
 
 
 //console.log(writeToFile(fileName, sampleData)) //need to call using node index alex giannini (example)
-const promptUser = () => {
+const promptUser = (data) => {
     return inquirer.prompt([
         {
         type: 'input',
@@ -80,10 +80,18 @@ const promptUser = () => {
         }
     ])
 }
-promptUser().then(answers => console.log(answers))
-
-fs.writeFile('READMEsample.md', writeToFile(fileName, sampleData), err => {
-    if (err) throw err;
-    console.log('This worked!')
+promptUser().then(answers => fs.writeFile('READMEsample.md', writeToFile(answers.projectTitle, answers.projectDescription, answers.projectInstallation, answers.usageInformation, answers.contributingGuidelines, answers.testInformation, answers.licenseInformation, answers.githubUser, answers.email), err => {
+    if (err) {
+        throw err;
+        //console.log('this appends the data to the read me properly')
+    }
 })
 
+)
+
+//fs.writeFile('READMEsample.md', writeToFile(projectTitle, projectDescription), err => {
+  //  if (err) throw err;
+  //  console.log('This worked!')
+//})
+
+//promptUser().then(answers => console.log(answers.projectDescription))

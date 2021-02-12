@@ -17,10 +17,38 @@ function generateMarkdown(data) {
 `;
 }
 
-function writeToFile(fileName, data) { //need to update this
-  return `
-  # ${fileName}
-  # ${data}`
+function writeToFile(projectTitle, projectDescription, projectInstallation, usageInformation, contributingGuidelines, testInformation, licenseInformation, githubUser, email) { //need to update this
+  return `# ${projectTitle}
+  # Description: 
+  ${projectDescription}
+
+  # Table of Contents:
+
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
+
+  # Installation: 
+  ${projectInstallation}
+
+  # Usage: 
+  ${usageInformation}
+
+  # License: 
+  This application is covered under the ${licenseInformation} license
+
+  # Contributing: 
+  ${contributingGuidelines}
+
+  # Tests: 
+  ${testInformation}
+
+  # Questions: 
+  GitHub User: [${githubUser}](https://github.com/${githubUser})
+  Please feel free to reach out with any questions at ${email}`
 }
 
 //module.exports = generateMarkdown; ////need to update this
