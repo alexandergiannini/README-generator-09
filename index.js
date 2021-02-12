@@ -144,15 +144,8 @@ const promptUser = (data) => {
 promptUser().then(answers => fs.writeFile('READMEsample.md', writeToFile(answers.projectTitle, answers.projectDescription, answers.projectInstallation, answers.usageInformation, answers.contributingGuidelines, answers.testInformation, answers.licenseInformation, answers.githubUser, answers.email), err => {
     if (err) {
         throw err;
-        //console.log('this appends the data to the read me properly')
     }
 })
 
 )
 
-//fs.writeFile('READMEsample.md', writeToFile(projectTitle, projectDescription), err => {
-  //  if (err) throw err;
-  //  console.log('This worked!')
-//})
-
-//promptUser().then(answers => console.log(answers.projectDescription))

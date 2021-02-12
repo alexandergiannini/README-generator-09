@@ -59,6 +59,7 @@ function writeToFile(projectTitle, projectDescription, projectInstallation, usag
 }
 
 //module.exports = generateMarkdown; ////need to update this
+//////
 module.exports = writeToFile
 
 
