@@ -1,9 +1,9 @@
-# dsadads
+# zedd
 
-  <img src="https://img.shields.io/badge/license-Mozilla Public License 2.0-yellow" alt="" />
+  <img src="https://img.shields.io/badge/license-GNU GPLv3-yellow" alt="" />
   
   # Description: 
-  think about it
+  is
   
 
   # Table of Contents:
@@ -16,21 +16,21 @@
   * [Questions](#questions)
 
   # Installation: 
-  it must be higher love
+  playing
 
   # Usage: 
-  without it!
+  at
 
   # License: 
-  This application is covered under the Mozilla Public License 2.0 license
+  This application is covered under the GNU GPLv3 license
 
   # Contributing: 
-  bring me your higher love!
+  coachella
 
   # Tests: 
-  n/a
+  tonight!
 
   # Questions: 
-  GitHub User: [kygo](https://github.com/kygo)
+  GitHub User: [and i need to](https://github.com/and i need to)
 
-  Please feel free to reach out with any questions at whitnye
+  Please feel free to reach out with any questions at eat some food
