@@ -27,7 +27,7 @@ let writeToFile = (projectTitle, projectDescription, projectInstallation, usageI
   ${usageInformation}
 
   # License: 
-  This application is covered under the ${licenseInformation} license
+  The license which this application is covered under is ${licenseInformation}
 
   # Contributing: 
   ${contributingGuidelines}
