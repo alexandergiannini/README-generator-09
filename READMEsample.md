@@ -1,9 +1,9 @@
-# Alexander
+# dsadads
 
-  <img src="https://img.shields.io/badge/license-MIT License-yellow" alt="" />
+  <img src="https://img.shields.io/badge/license-Mozilla Public License 2.0-yellow" alt="" />
   
   # Description: 
-  Giannini
+  think about it
   
 
   # Table of Contents:
@@ -16,21 +16,21 @@
   * [Questions](#questions)
 
   # Installation: 
-  u need to download from app store
+  it must be higher love
 
   # Usage: 
-  dew it
+  without it!
 
   # License: 
-  This application is covered under the MIT License license
+  This application is covered under the Mozilla Public License 2.0 license
 
   # Contributing: 
-  nawwedad
+  bring me your higher love!
 
   # Tests: 
-  asdads
+  n/a
 
   # Questions: 
-  GitHub User: [adsads](https://github.com/adsads)
+  GitHub User: [kygo](https://github.com/kygo)
 
-  Please feel free to reach out with any questions at dasdas
+  Please feel free to reach out with any questions at whitnye
