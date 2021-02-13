@@ -1,9 +1,9 @@
-# zedd
+# alexander
 
-  <img src="https://img.shields.io/badge/license-GNU GPLv3-yellow" alt="" />
+  <img src="https://img.shields.io/badge/license-MIT License-yellow" alt="" />
   
   # Description: 
-  is
+  giannini
   
 
   # Table of Contents:
@@ -16,21 +16,21 @@
   * [Questions](#questions)
 
   # Installation: 
-  playing
+  attennsdas
 
   # Usage: 
-  at
+  dasdasd
 
   # License: 
-  This application is covered under the GNU GPLv3 license
+  This application is covered under the MIT License license
 
   # Contributing: 
-  coachella
+  dsadsads
 
   # Tests: 
-  tonight!
+  adsasdasd
 
   # Questions: 
-  GitHub User: [and i need to](https://github.com/and i need to)
+  GitHub User: alexandergiannini -> https://github.com/alexandergiannini
 
-  Please feel free to reach out with any questions at eat some food
+  Please feel free to reach out with any questions at adasdasdads

@@ -36,7 +36,7 @@ let writeToFile = (projectTitle, projectDescription, projectInstallation, usageI
   ${testInformation}
 
   # Questions: 
-  GitHub User: [${githubUser}](https://github.com/${githubUser})
+  GitHub User: ${githubUser} -> https://github.com/${githubUser}
 
   Please feel free to reach out with any questions at ${email}`
 };
