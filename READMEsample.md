@@ -1,9 +1,9 @@
-# Moviehunt
+# Alexander
 
-  <img src="https://img.shields.io/static/v1?label=license&message=MIT License&color=yellow"/>
+  <img src="https://img.shields.io/badge/license-MIT License-yellow" alt="" />
   
   # Description: 
-  u can search movies with this application
+  Giannini
   
 
   # Table of Contents:
@@ -16,21 +16,21 @@
   * [Questions](#questions)
 
   # Installation: 
-  u just need to go to moviehunt.com
+  u need to download from app store
 
   # Usage: 
-  u must be over 18 years of age to use this.
+  dew it
 
   # License: 
   This application is covered under the MIT License license
 
   # Contributing: 
-  contribution was provided by emily chuun and alex reveles
+  nawwedad
 
   # Tests: 
-  u can only test on web browsers
+  asdads
 
   # Questions: 
-  GitHub User: [alexandergiannini](https://github.com/alexandergiannini)
+  GitHub User: [adsads](https://github.com/adsads)
 
-  Please feel free to reach out with any questions at biggianninitennis@gmail.com
+  Please feel free to reach out with any questions at dasdas
